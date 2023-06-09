@@ -1,0 +1,5 @@
+hello-lambda
+terraform.tfstate
+terraform.tfstate.*
+lambda_function.zip
+.terraform

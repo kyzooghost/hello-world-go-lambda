@@ -1,0 +1,1 @@
+lambda_name = "hello-world-go"
